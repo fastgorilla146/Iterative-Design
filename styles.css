@@ -1,0 +1,23 @@
+.name{
+    font-size: 36px;
+    text-align: center;
+}
+
+.mainText {
+    font-size: 24px;
+    text-align: center;
+}
+
+.blocks {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 10px;
+
+}
+
+.horizontal {
+    width: 250px;
+}
+
